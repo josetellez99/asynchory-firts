@@ -1,0 +1,23 @@
+{
+  "name": "asynchory-firts",
+  "version": "1.0.0",
+  "description": "Oracticing asynchrony",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josetellez99/asynchory-firts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josetellez99/asynchory-firts/issues"
+  },
+  "homepage": "https://github.com/josetellez99/asynchory-firts#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
